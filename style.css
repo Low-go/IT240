@@ -1,0 +1,26 @@
+body{
+    background-color: #E2E2E2E2;
+    width: 80%; 
+    margin: auto;
+
+}
+.header-stuff{
+    background-color: #333;
+}
+.header-stuff h1{
+    color : burlywood ;
+    text-align: center;
+}
+footer{
+    background-color: #333;
+    text-align: right; 
+    color: #E2277A;
+}
+#myimg{
+    width:1000px;
+    height: auto; 
+    transform: translateX(25%);
+    border:5px solid #212121; 
+    border-radius: 25px;
+
+}
